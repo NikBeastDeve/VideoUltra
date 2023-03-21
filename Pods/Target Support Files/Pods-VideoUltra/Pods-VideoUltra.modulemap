@@ -1,0 +1,6 @@
+framework module Pods_VideoUltra {
+  umbrella header "Pods-VideoUltra-umbrella.h"
+
+  export *
+  module * { export * }
+}
